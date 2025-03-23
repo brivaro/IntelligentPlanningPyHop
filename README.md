@@ -1,6 +1,6 @@
 <div align="center">
 <h1>🚚 Intelligent Planning with PyHop in Python</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" alt="python logo" />
 </div>
 
 ---
