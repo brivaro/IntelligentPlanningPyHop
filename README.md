@@ -1,7 +1,6 @@
 <div align="center">
 <h1>🚚 Intelligent Planning with PyHop in Python</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Plan.svg" height="80" alt="planning icon" />
 </div>
 
 ---
@@ -35,9 +34,9 @@ This project implements an intelligent planning system using the PyHop planner i
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/IntelligentPlanningPyHop.git
+   git clone https://github.com/brivaro/IntelligentPlanningPyHop
 
-2. **Install Dependencies:** Ensure you have Python 3.6 or higher installed. Using the `pyhoop.py` that it is already in the repo.
+2. **Install Dependencies:** Ensure you have Python 3.6 or higher installed. Using the `pyhop.py` that it is already in the repo.
 
 3. **Run the Planner:** Execute the problem instance to generate a plan.
    ```bash
