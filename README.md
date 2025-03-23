@@ -41,8 +41,6 @@ This project implements an intelligent planning system using the PyHop planner i
 
 Ensure you have Python 3.6 or higher installed. Using the pyhoop.py that it is already in the repo.
 
-3. **Run the Planner:**
-
-Execute the problem instance to generate a plan:
+3. **Run the Planner:** Execute the problem instance to generate a plan.
    ```bash
    python problem.py
